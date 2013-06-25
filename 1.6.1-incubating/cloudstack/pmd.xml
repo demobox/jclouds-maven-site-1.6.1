@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.3" timestamp="2013-06-24T16:34:00.753">
+<file name="/scratch/jenkins/workspace/jclouds-maven-site-1.6.1/apis/cloudstack/src/main/java/org/jclouds/cloudstack/compute/functions/VirtualMachineToNodeMetadata.java">
+<violation beginline="17" endline="178" begincolumn="1" endcolumn="2" rule="TooManyStaticImports" ruleset="Import Statement Rules" package="org.jclouds.cloudstack.compute.functions" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#TooManyStaticImports" priority="3">
+Too many static imports may lead to messy code
+</violation>
+</file>
+<file name="/scratch/jenkins/workspace/jclouds-maven-site-1.6.1/apis/cloudstack/src/main/java/org/jclouds/cloudstack/compute/strategy/AdvancedNetworkOptionsConverter.java">
+<violation beginline="17" endline="62" begincolumn="1" endcolumn="2" rule="TooManyStaticImports" ruleset="Import Statement Rules" package="org.jclouds.cloudstack.compute.strategy" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#TooManyStaticImports" priority="3">
+Too many static imports may lead to messy code
+</violation>
+</file>
+<file name="/scratch/jenkins/workspace/jclouds-maven-site-1.6.1/apis/cloudstack/src/main/java/org/jclouds/cloudstack/compute/strategy/CloudStackComputeServiceAdapter.java">
+<violation beginline="17" endline="407" begincolumn="1" endcolumn="2" rule="TooManyStaticImports" ruleset="Import Statement Rules" package="org.jclouds.cloudstack.compute.strategy" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#TooManyStaticImports" priority="3">
+Too many static imports may lead to messy code
+</violation>
+<violation beginline="71" endline="71" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Import Statement Rules" package="org.jclouds.cloudstack.compute.strategy" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'com.google.common.collect.Iterables'
+</violation>
+</file>
+<file name="/scratch/jenkins/workspace/jclouds-maven-site-1.6.1/apis/cloudstack/src/main/java/org/jclouds/cloudstack/filters/QuerySigner.java">
+<violation beginline="17" endline="143" begincolumn="1" endcolumn="2" rule="TooManyStaticImports" ruleset="Import Statement Rules" package="org.jclouds.cloudstack.filters" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#TooManyStaticImports" priority="3">
+Too many static imports may lead to messy code
+</violation>
+</file>
+<file name="/scratch/jenkins/workspace/jclouds-maven-site-1.6.1/apis/cloudstack/src/main/java/org/jclouds/cloudstack/functions/ReuseOrAssociateNewPublicIPAddress.java">
+<violation beginline="17" endline="105" begincolumn="1" endcolumn="2" rule="TooManyStaticImports" ruleset="Import Statement Rules" package="org.jclouds.cloudstack.functions" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#TooManyStaticImports" priority="3">
+Too many static imports may lead to messy code
+</violation>
+</file>
+<file name="/scratch/jenkins/workspace/jclouds-maven-site-1.6.1/apis/cloudstack/src/main/java/org/jclouds/cloudstack/functions/StaticNATVirtualMachineInNetwork.java">
+<violation beginline="75" endline="77" begincolumn="12" endcolumn="10" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.jclouds.cloudstack.functions" class="StaticNATVirtualMachineInNetwork" method="apply" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+</pmd>

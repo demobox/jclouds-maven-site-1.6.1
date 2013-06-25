@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.3" timestamp="2013-06-24T20:03:35.385">
+<file name="/scratch/jenkins/workspace/jclouds-maven-site-1.6.1/providers/azureblob/src/main/java/org/jclouds/azureblob/blobstore/AzureBlobRequestSigner.java">
+<violation beginline="35" endline="35" begincolumn="1" endcolumn="54" rule="UnusedImports" ruleset="Import Statement Rules" package="org.jclouds.azureblob.blobstore" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.rest.internal.GeneratedHttpRequest'
+</violation>
+</file>
+<file name="/scratch/jenkins/workspace/jclouds-maven-site-1.6.1/providers/azureblob/src/main/java/org/jclouds/azureblob/blobstore/functions/BlobPropertiesToBlobMetadata.java">
+<violation beginline="67" endline="69" begincolumn="12" endcolumn="10" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.jclouds.azureblob.blobstore.functions" class="BlobPropertiesToBlobMetadata" method="apply" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+</pmd>
